@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "version": 1,
+    "request": "http://nba.cloud/league/00/2025/02/14/scoreboard?Format=json",
+    "time": "2025-02-27T13:33:04.334Z"
+  },
+  "scoreboard": {
+    "gameDate": "2025-02-14",
+    "leagueId": "00",
+    "leagueName": "National Basketball Association",
+    "games": [
+      {
+        "gameId": "0032400004",
+        "gameCode": "20250214/TMTTMC",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "period": 1,
+        "gameClock": "",
+        "gameTimeUTC": "2025-02-15T02:15:00Z",
+        "gameEt": "2025-02-14T21:15:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "Rising Stars Semifinal",
+        "gameSubLabel": "Game 1",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 1642261,
+            "name": "Dalton Knecht",
+            "playerSlug": "dalton-knecht",
+            "jerseyNum": "4",
+            "position": "F",
+            "teamTricode": "TMC",
+            "points": 7,
+            "rebounds": 4,
+            "assists": 4
+          },
+          "awayLeaders": {
+            "personId": 1641711,
+            "name": "Gradey Dick",
+            "playerSlug": "gradey-dick",
+            "jerseyNum": "1",
+            "position": "G-F",
+            "teamTricode": "TMT",
+            "points": 12,
+            "rebounds": 0,
+            "assists": 1
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 1642346,
+            "name": "Ryan Dunn",
+            "playerSlug": "ryan-dunn",
+            "jerseyNum": "0",
+            "position": "F",
+            "teamTricode": "TMC",
+            "points": 8.0,
+            "rebounds": 2.0,
+            "assists": 0.0
+          },
+          "awayLeaders": {
+            "personId": 0,
+            "name": "",
+            "playerSlug": "",
+            "jerseyNum": "",
+            "position": "",
+            "teamTricode": "TMT",
+            "points": 0.0,
+            "rebounds": 0.0,
+            "assists": 0.0
+          },
+          "seasonLeadersFlag": 2
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001131,
+              "broadcastDisplay": "TNT/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616855,
+          "teamName": "Team C",
+          "teamCity": "",
+          "teamTricode": "TMC",
+          "teamSlug": "team-c",
+          "wins": 1,
+          "losses": 0,
+          "score": 40,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 3,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 40
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616856,
+          "teamName": "Team T",
+          "teamCity": "",
+          "teamTricode": "TMT",
+          "teamSlug": "team-t",
+          "wins": 0,
+          "losses": 1,
+          "score": 34,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 6,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 34
+            }
+          ]
+        }
+      },
+      {
+        "gameId": "0032400005",
+        "gameCode": "20250214/TMGTMM",
+        "gameStatus": 2,
+        "gameStatusText": "Target: 40 PTS      ",
+        "period": 1,
+        "gameClock": "PT84M25.00S",
+        "gameTimeUTC": "2025-02-15T02:55:00Z",
+        "gameEt": "2025-02-14T21:55:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "Rising Stars Semifinal",
+        "gameSubLabel": "Game 2",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 1641708,
+            "name": "Amen Thompson",
+            "playerSlug": "amen-thompson",
+            "jerseyNum": "1",
+            "position": "G-F",
+            "teamTricode": "TMM",
+            "points": 10,
+            "rebounds": 2,
+            "assists": 2
+          },
+          "awayLeaders": {
+            "personId": 1631159,
+            "name": "Leonard Miller",
+            "playerSlug": "leonard-miller",
+            "jerseyNum": "33",
+            "position": "F",
+            "teamTricode": "TMG",
+            "points": 14,
+            "rebounds": 7,
+            "assists": 0
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 1641708,
+            "name": "Amen Thompson",
+            "playerSlug": "amen-thompson",
+            "jerseyNum": "1",
+            "position": "G-F",
+            "teamTricode": "TMM",
+            "points": 4.0,
+            "rebounds": 3.0,
+            "assists": 4.0
+          },
+          "awayLeaders": {
+            "personId": 0,
+            "name": "",
+            "playerSlug": "",
+            "jerseyNum": "",
+            "position": "",
+            "teamTricode": "TMG",
+            "points": 0.0,
+            "rebounds": 0.0,
+            "assists": 0.0
+          },
+          "seasonLeadersFlag": 2
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001131,
+              "broadcastDisplay": "TNT/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616857,
+          "teamName": "Team M",
+          "teamCity": "",
+          "teamTricode": "TMM",
+          "teamSlug": "team-m",
+          "wins": 0,
+          "losses": 1,
+          "score": 39,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 4,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 39
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616858,
+          "teamName": "Team G League",
+          "teamCity": "",
+          "teamTricode": "TMG",
+          "teamSlug": "team-g-league",
+          "wins": 1,
+          "losses": 0,
+          "score": 40,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 40
+            }
+          ]
+        }
+      },
+      {
+        "gameId": "0032400006",
+        "gameCode": "20250214/TMGTMC",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "period": 1,
+        "gameClock": "",
+        "gameTimeUTC": "2025-02-15T03:35:00Z",
+        "gameEt": "2025-02-14T22:35:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "Rising Stars Championship",
+        "gameSubLabel": "",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 1642264,
+            "name": "Stephon Castle",
+            "playerSlug": "stephon-castle",
+            "jerseyNum": "5",
+            "position": "G",
+            "teamTricode": "TMC",
+            "points": 12,
+            "rebounds": 3,
+            "assists": 2
+          },
+          "awayLeaders": {
+            "personId": 1631159,
+            "name": "Leonard Miller",
+            "playerSlug": "leonard-miller",
+            "jerseyNum": "33",
+            "position": "F",
+            "teamTricode": "TMG",
+            "points": 5,
+            "rebounds": 2,
+            "assists": 2
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 1642346,
+            "name": "Ryan Dunn",
+            "playerSlug": "ryan-dunn",
+            "jerseyNum": "0",
+            "position": "F",
+            "teamTricode": "TMC",
+            "points": 8.0,
+            "rebounds": 2.0,
+            "assists": 0.0
+          },
+          "awayLeaders": {
+            "personId": 0,
+            "name": "",
+            "playerSlug": "",
+            "jerseyNum": "",
+            "position": "",
+            "teamTricode": "TMG",
+            "points": 0.0,
+            "rebounds": 0.0,
+            "assists": 0.0
+          },
+          "seasonLeadersFlag": 2
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001131,
+              "broadcastDisplay": "TNT/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616855,
+          "teamName": "Team C",
+          "teamCity": "",
+          "teamTricode": "TMC",
+          "teamSlug": "team-c",
+          "wins": 2,
+          "losses": 0,
+          "score": 25,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 25
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616858,
+          "teamName": "Team G League",
+          "teamCity": "",
+          "teamTricode": "TMG",
+          "teamSlug": "team-g-league",
+          "wins": 1,
+          "losses": 1,
+          "score": 14,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 14
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

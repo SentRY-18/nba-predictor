@@ -8,5 +8,4 @@ def root():
 
 @app.post("/predict/match")
 def predict_match(payload: dict):
-    # Placeholder : à remplir plus tard
     return {"message": "Prediction endpoint not implemented yet"}

@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "version": 1,
+    "request": "http://nba.cloud/league/00/2025/02/16/scoreboard?Format=json",
+    "time": "2025-02-27T13:33:08.338Z"
+  },
+  "scoreboard": {
+    "gameDate": "2025-02-16",
+    "leagueId": "00",
+    "leagueName": "National Basketball Association",
+    "games": [
+      {
+        "gameId": "0032400011",
+        "gameCode": "20250216/KENCHK",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "period": 1,
+        "gameClock": "",
+        "gameTimeUTC": "2025-02-17T01:20:00Z",
+        "gameEt": "2025-02-16T20:20:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "All-Star Semifinal",
+        "gameSubLabel": "Game 1",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 1628983,
+            "name": "Shai Gilgeous-Alexander",
+            "playerSlug": "shai-gilgeous-alexander",
+            "jerseyNum": "2",
+            "position": "G",
+            "teamTricode": "CHK",
+            "points": 12,
+            "rebounds": 2,
+            "assists": 1
+          },
+          "awayLeaders": {
+            "personId": 1629636,
+            "name": "Darius Garland",
+            "playerSlug": "darius-garland",
+            "jerseyNum": "10",
+            "position": "G",
+            "teamTricode": "KEN",
+            "points": 6,
+            "rebounds": 0,
+            "assists": 3
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 1641705,
+            "name": "Victor Wembanyama",
+            "playerSlug": "victor-wembanyama",
+            "jerseyNum": "1",
+            "position": "F-C",
+            "teamTricode": "CHK",
+            "points": 8.5,
+            "rebounds": 3.5,
+            "assists": 0.0
+          },
+          "awayLeaders": {
+            "personId": 1629636,
+            "name": "Darius Garland",
+            "playerSlug": "darius-garland",
+            "jerseyNum": "10",
+            "position": "G",
+            "teamTricode": "KEN",
+            "points": 6.0,
+            "rebounds": 0.0,
+            "assists": 3.0
+          },
+          "seasonLeadersFlag": 0
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001146,
+              "broadcastDisplay": "TNT/TBS/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616851,
+          "teamName": "Global Stars",
+          "teamCity": "",
+          "teamTricode": "CHK",
+          "teamSlug": "global-stars",
+          "wins": 1,
+          "losses": 0,
+          "score": 41,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 41
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616853,
+          "teamName": "Young Stars",
+          "teamCity": "",
+          "teamTricode": "KEN",
+          "teamSlug": "young-stars",
+          "wins": 0,
+          "losses": 1,
+          "score": 32,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 32
+            }
+          ]
+        }
+      },
+      {
+        "gameId": "0032400021",
+        "gameCode": "20250216/CANSHQ",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "period": 1,
+        "gameClock": "",
+        "gameTimeUTC": "2025-02-17T02:10:00Z",
+        "gameEt": "2025-02-16T21:10:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "All-Star Semifinal",
+        "gameSubLabel": "Game 2",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 201939,
+            "name": "Stephen Curry",
+            "playerSlug": "stephen-curry",
+            "jerseyNum": "30",
+            "position": "G",
+            "teamTricode": "SHQ",
+            "points": 8,
+            "rebounds": 6,
+            "assists": 1
+          },
+          "awayLeaders": {
+            "personId": 1641708,
+            "name": "Amen Thompson",
+            "playerSlug": "amen-thompson",
+            "jerseyNum": "1",
+            "position": "G-F",
+            "teamTricode": "CAN",
+            "points": 4,
+            "rebounds": 3,
+            "assists": 4
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 201939,
+            "name": "Stephen Curry",
+            "playerSlug": "stephen-curry",
+            "jerseyNum": "30",
+            "position": "G",
+            "teamTricode": "SHQ",
+            "points": 10.0,
+            "rebounds": 5.0,
+            "assists": 1.0
+          },
+          "awayLeaders": {
+            "personId": 1641708,
+            "name": "Amen Thompson",
+            "playerSlug": "amen-thompson",
+            "jerseyNum": "1",
+            "position": "G-F",
+            "teamTricode": "CAN",
+            "points": 4.0,
+            "rebounds": 3.0,
+            "assists": 4.0
+          },
+          "seasonLeadersFlag": 0
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001146,
+              "broadcastDisplay": "TNT/TBS/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616852,
+          "teamName": "OGs",
+          "teamCity": "",
+          "teamTricode": "SHQ",
+          "teamSlug": "ogs",
+          "wins": 1,
+          "losses": 0,
+          "score": 42,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 42
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616854,
+          "teamName": "Rising Stars",
+          "teamCity": "",
+          "teamTricode": "CAN",
+          "teamSlug": "rising-stars",
+          "wins": 0,
+          "losses": 1,
+          "score": 35,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 35
+            }
+          ]
+        }
+      },
+      {
+        "gameId": "0032400031",
+        "gameCode": "20250216/SHQCHK",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "period": 1,
+        "gameClock": "",
+        "gameTimeUTC": "2025-02-17T03:00:00Z",
+        "gameEt": "2025-02-16T22:00:00Z",
+        "regulationPeriods": 1,
+        "seriesGameNumber": "",
+        "gameLabel": "All-Star Championship",
+        "gameSubLabel": "",
+        "seriesText": "",
+        "ifNecessary": false,
+        "seriesConference": "",
+        "poRoundDesc": "",
+        "gameSubtype": "",
+        "isNeutral": false,
+        "gameLeaders": {
+          "homeLeaders": {
+            "personId": 1641705,
+            "name": "Victor Wembanyama",
+            "playerSlug": "victor-wembanyama",
+            "jerseyNum": "1",
+            "position": "F-C",
+            "teamTricode": "CHK",
+            "points": 11,
+            "rebounds": 3,
+            "assists": 0
+          },
+          "awayLeaders": {
+            "personId": 1628369,
+            "name": "Jayson Tatum",
+            "playerSlug": "jayson-tatum",
+            "jerseyNum": "0",
+            "position": "F-G",
+            "teamTricode": "SHQ",
+            "points": 15,
+            "rebounds": 3,
+            "assists": 2
+          }
+        },
+        "teamLeaders": {
+          "homeLeaders": {
+            "personId": 1641705,
+            "name": "Victor Wembanyama",
+            "playerSlug": "victor-wembanyama",
+            "jerseyNum": "1",
+            "position": "F-C",
+            "teamTricode": "CHK",
+            "points": 8.5,
+            "rebounds": 3.5,
+            "assists": 0.0
+          },
+          "awayLeaders": {
+            "personId": 201939,
+            "name": "Stephen Curry",
+            "playerSlug": "stephen-curry",
+            "jerseyNum": "30",
+            "position": "G",
+            "teamTricode": "SHQ",
+            "points": 10.0,
+            "rebounds": 5.0,
+            "assists": 1.0
+          },
+          "seasonLeadersFlag": 0
+        },
+        "broadcasters": {
+          "nationalBroadcasters": [
+            {
+              "broadcasterId": 1001146,
+              "broadcastDisplay": "TNT/TBS/truTV",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalRadioBroadcasters": [
+            {
+              "broadcasterId": 1001098,
+              "broadcastDisplay": "SiriusXM",
+              "broadcasterTeamId": -1,
+              "broadcasterDescription": ""
+            }
+          ],
+          "nationalOttBroadcasters": [],
+          "homeTvBroadcasters": [],
+          "homeRadioBroadcasters": [],
+          "homeOttBroadcasters": [],
+          "awayTvBroadcasters": [],
+          "awayRadioBroadcasters": [],
+          "awayOttBroadcasters": []
+        },
+        "homeTeam": {
+          "teamId": 1610616851,
+          "teamName": "Global Stars",
+          "teamCity": "",
+          "teamTricode": "CHK",
+          "teamSlug": "global-stars",
+          "wins": 1,
+          "losses": 1,
+          "score": 25,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 5,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 25
+            }
+          ]
+        },
+        "awayTeam": {
+          "teamId": 1610616852,
+          "teamName": "OGs",
+          "teamCity": "",
+          "teamTricode": "SHQ",
+          "teamSlug": "ogs",
+          "wins": 2,
+          "losses": 0,
+          "score": 41,
+          "seed": 0,
+          "inBonus": null,
+          "timeoutsRemaining": 6,
+          "periods": [
+            {
+              "period": 1,
+              "periodType": "REGULAR",
+              "score": 41
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
